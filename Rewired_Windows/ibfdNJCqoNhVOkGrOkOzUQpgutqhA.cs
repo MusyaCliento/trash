@@ -1,0 +1,6 @@
+internal class ibfdNJCqoNhVOkGrOkOzUQpgutqhA : HxiNKxgxSvKipVJEhYsCZOMjnJRO, JexCKyImrDHqPoDRojzKdkoHBIJvA, CFrFWbhrvjwkNcvcpdtwZZmwRmIWA, VapVPjMevMOvhYFhdSPKAIDgvLIx
+{
+	public int JExAiOxYNtGqtOQIZosFFncDxlet;
+
+	int JexCKyImrDHqPoDRojzKdkoHBIJvA.XgEIBveMrxwFRDzbMWIuHGiZILJhA => JExAiOxYNtGqtOQIZosFFncDxlet;
+}

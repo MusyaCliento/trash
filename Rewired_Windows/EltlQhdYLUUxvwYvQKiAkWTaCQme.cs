@@ -1,0 +1,6 @@
+internal struct EltlQhdYLUUxvwYvQKiAkWTaCQme
+{
+	public OsDiArBndaBCHGKjYdRtjMOEBbiC toVfQKWASRdBHnZDHNNaTeGZaiFr;
+
+	public BCjRuRSCKuaMlBgRvsWUkCICStBrA crxKqdeLRamYIQXoOGFISQtjKOol;
+}

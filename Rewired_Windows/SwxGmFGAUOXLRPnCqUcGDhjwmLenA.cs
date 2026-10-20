@@ -1,0 +1,5 @@
+internal enum SwxGmFGAUOXLRPnCqUcGDhjwmLenA
+{
+	Shared = 0,
+	Exclusive = 1
+}
